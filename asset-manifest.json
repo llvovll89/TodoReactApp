@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/llvovll89/TodoReactApp.git/static/css/main.b1a88b46.css",
+    "main.js": "/llvovll89/TodoReactApp.git/static/js/main.643f74ed.js",
+    "index.html": "/llvovll89/TodoReactApp.git/index.html",
+    "main.b1a88b46.css.map": "/llvovll89/TodoReactApp.git/static/css/main.b1a88b46.css.map",
+    "main.643f74ed.js.map": "/llvovll89/TodoReactApp.git/static/js/main.643f74ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a88b46.css",
+    "static/js/main.643f74ed.js"
+  ]
+}
